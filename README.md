@@ -1,6 +1,6 @@
-# Embedded Jetty template application 
+# Embedded Jetty template application - ming-app-site-01
 
-This is a template for a web application that uses embedded Jetty. The sample code consists of a JSP (this page) and a simple servlet.
+Ming-app-site-01 cloned from embedded jetty template application
 
 ## Running the application locally
 
